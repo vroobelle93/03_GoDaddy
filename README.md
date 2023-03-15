@@ -25,7 +25,11 @@ which resulted in some cool predictions. I used sci-kit learn framework to do it
 I used [SMAPE](https://en.wikipedia.org/wiki/Symmetric_mean_absolute_percentage_error) to measure accuracy of models.
 
 ## Motivation
-I used this project as a playground to learn machine learning regression tools. It also helped me get more familiar with sklearn framework.
+I used this project as a playground to learn machine learning regression tools. It also helped me get more familiar with sklearn framework, so in nutshell:
+ - Sci-kit learn - I got familiar with its API and selecting right model,
+ - Machine learning regression tools - checked mathematics behind it,
+ - $LaTeX$ - fancy equations,
+ - pandas, seaborn - some training in this area is always cool,  
 
 ## How to run the project
  - Download repo files,
