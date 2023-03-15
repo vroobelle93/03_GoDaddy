@@ -17,7 +17,7 @@ After feature engineering there was time to build machine learning models:
  - Ridge regression
  - Lasso regression
   
-which resulted in some cool predictions. Below we can see how it worked for a single county:
+which resulted in some cool predictions. I used sci-kit learn framework to do it. Below we can see how it worked for a single county:
 <p align="center">
   <img src="img/img2.png" alt="Single county prediction" width="900">
 </p>  
@@ -25,10 +25,12 @@ which resulted in some cool predictions. Below we can see how it worked for a si
 I used [SMAPE](https://en.wikipedia.org/wiki/Symmetric_mean_absolute_percentage_error) to measure accuracy of models.
 
 ## Motivation
-I used this project as a playground to learn some machine learning regression tools.
+I used this project as a playground to learn machine learning regression tools. It also helped me get more familiar with sklearn framework.
 
 ## How to run the project
-TODO
+ - Download repo files,
+ - Create Conda environment using environment.yml file,
+ - Run the notebook - execution takes 1-2 minutes,
 
 ## Possible upgrades
 More sophisticated ML tools can be used or there could be done more data analysis to find better correlations between data - for example lag features could be explored.
